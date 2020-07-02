@@ -1,0 +1,11 @@
+#img-div{
+    max-width: 1190px;
+    text-align: center;
+    margin: auto;
+}
+
+#image{
+    position: relative;
+    margin: auto;
+    width: 70%;
+}
