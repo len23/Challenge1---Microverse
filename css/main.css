@@ -1,9 +1,6 @@
-#img-div{
-    width: 1190px;
-    text-align: center;
-}
-
-#image-div{
+#image{
+    display: block;
     margin: auto;
-    width: 100%;
+    padding: auto;
+    max-width: 100%;
 }
