@@ -1,11 +1,9 @@
 #img-div{
-    max-width: 1190px;
+    width: 1190px;
     text-align: center;
-    margin: auto;
 }
 
-#image{
-    position: relative;
+#image-div{
     margin: auto;
-    width: 70%;
+    width: 100%;
 }
